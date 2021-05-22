@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CherrieP
 - 👀 I’m interested in helping to work with startup companies in conding
-- 🌱 I’m currently learning C++/Py/Js/htmlcss
+- 🌱 I’m currently learning C++/Py/Js/htmlcss/Matlab
 - 📫 How to reach me IG@admzaha Discord:CherrieP#6464
 
 https://makerthon-a38f3.web.app/ <- automated covid tracker for Malaysia (WIP)
