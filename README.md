@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CherrieP
-- 👀 I’m interested in helping to work with startup companies in conding
+- 👀 I’m interested in helping people to get started into coding
 - 🌱 I’m currently learning C++/Py/Js/htmlcss/Matlab
 - 📫 How to reach me IG@admzaha Discord:CherrieP#6464
 
