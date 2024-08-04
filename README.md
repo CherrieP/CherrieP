@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @CherrieP
-- 👀 I’m interested in helping people to get started into coding
-- 🌱 I’m currently learning C++/Py/Js/htmlcss/Matlab
-- 📫 How to reach me IG@admzaha Discord:CherrieP#6464
+CherrieP / Adam Zahanuddin
+Systems & Product Engineer at nanoSkunkWorkX, Malaysia
+Electrical Engineer Graduate from Universiti Malaya, Malaysia
 
-https://makerthon-a38f3.web.app/ <- automated covid tracker for Malaysia (WIP)
+I build full stack hardware-software solution;chips-selection/pcb-design/firmware-programming/software-programming
+Programming firmware is a lot more fun than software!
 
-<!---
-CherrieP/CherrieP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I may not have formal education but I have specialised knowledge of below;
+C/C++;esp32/arduino/firmware/game-engine/
+Python;discord/asynchronous/multithreading/serial/flask-with-session-and-socketio/
+Feel free to learn from me :D
+
+Currently learning (and you can help me with);
+C# and .NET, React
+
+https://makerthon-a38f3.web.app/ (DROPPED)
