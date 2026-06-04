@@ -1,6 +1,4 @@
-CherrieP / Adam Zahanuddin
-Systems & Product Engineer at nanoSkunkWorkX, Malaysia
-Electrical Engineer Graduate from Universiti Malaya, Malaysia
+Cherrie
 
 I build full stack hardware-software solution;chips-selection/pcb-design/firmware-programming/software-programming
 Programming firmware is a lot more fun than software!
@@ -11,6 +9,6 @@ Python;discord/asynchronous/multithreading/serial/flask-with-session-and-socketi
 Feel free to learn from me :D
 
 Currently learning (and you can help me with);
-C# and .NET, React
+C#, .NET, React, Rust
 
 https://makerthon-a38f3.web.app/ (DROPPED)
